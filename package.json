@@ -1,0 +1,20 @@
+{
+  "name": "delion-curl-remote",
+  "version": "0.9.0",
+  "description": "curl library for delion:api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delionAPI/delion-curl-remote.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "delion",
+    "remote-pow",
+    "curl"
+  ],
+  "author": "delionAPI <n@delion.io>",
+  "license": "ISC"
+}
