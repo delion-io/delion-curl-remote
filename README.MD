@@ -57,6 +57,3 @@ Stay up to date and follow us at (https://twitter.com/delion_io)
 Suggestions and discussion around specs, standardization and enhancements are highly encouraged.
 You are invited to join the discussion on [IOTA Discord](https://discord.gg/DTbJufa).
 
-## Donation
-
-support us by donating (even small amounts) to : HMCHBKRHITLZXMAZGHGHHFHMNDI9IHSOLDLRYAXLHPPOUHFFABPLHU9XHYZUIMNEZVAUAHZJJYVYQDAOCUMCWKWSCY
