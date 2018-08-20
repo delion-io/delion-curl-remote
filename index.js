@@ -75,7 +75,8 @@ const delionATT = async (trunkTransaction, branchTransaction, mwm, trytes, iotaI
 			await loopTrytes();
 		} else {
 			// reverse the order so that it's ascending from currentIndex
-			return finalBundleTrytes.reverse();
+			finalBundleTrytes.reverse();
+			return 
 		}
 	}
 
