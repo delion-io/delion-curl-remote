@@ -69,19 +69,14 @@ const delionATT = async (trunkTransaction, branchTransaction, mwm, trytes, iotaI
 	var i = 0;
 
 	async function loopTrytes() {
-		await getBundleTrytes(trytes[i], function(error) {
-			if (error) {
-				return callback(error);
-			} else {
-				i++;
-				if (i < trytes.length) {
-					loopTrytes();
-				} else {
-					// reverse the order so that it's ascending from currentIndex
-					return callback(null, finalBundleTrytes.reverse());
-				}
-			}
-		});
+		let transtrytes=await getBundleTrytes(trytes[i])
+		i++;
+		if (i < trytes.length) {
+			await loopTrytes();
+		} else {
+			// reverse the order so that it's ascending from currentIndex
+			return finalBundleTrytes.reverse();
+		}
 	}
 
 	async function getBundleTrytes(thisTrytes, callback) {
@@ -127,7 +122,6 @@ const delionATT = async (trunkTransaction, branchTransaction, mwm, trytes, iotaI
 		
 	}
 	await loopTrytes()
-
 	return finalBundleTrytes
 }
 
