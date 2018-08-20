@@ -48,7 +48,7 @@ This repo is a fork of "Curl Remote - IOTA.js Library Shim"(https://gitlab.com/i
 
 Please report any problems you encouter during development by [opening an issue](https://github.com/delionAPI/delion-curl-remote/issues/new).
 
-##Announcements
+## Announcements
 
 Stay up to date and follow us at (https://twitter.com/delion_io)
 
