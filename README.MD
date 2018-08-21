@@ -40,9 +40,9 @@ const attachToTangle =iotaClient.attachToTangle
 Documentation of Delion:API (https://delion.io) can be found on [docs.delion.io](https://socs.delion.io).
 Documentation of IOTA protocol and [`IRI`](https://github.com/iotaledger/iri) http API can be found on [docs.iota.works](https://docs.iota.works).
 
-## Fork
+## Copy
 
-This repo is a fork of "Curl Remote - IOTA.js Library Shim"(https://gitlab.com/iota-foundation/software/powbox/curl-remote)
+This repo is a modified copy of the "Curl Remote - IOTA.js Library Shim"(https://gitlab.com/iota-foundation/software/powbox/curl-remote)
 
 ## Reporting Issues
 
