@@ -42,7 +42,7 @@ Documentation of IOTA protocol and [`IRI`](https://github.com/iotaledger/iri) ht
 
 ## Copy
 
-This repo is a modified copy of the "Curl Remote - IOTA.js Library Shim"(https://gitlab.com/iota-foundation/software/powbox/curl-remote)
+This repo is a modified copy of the "Curl Remote - IOTA.js Library Shim"(https://gitlab.com/iota-foundation/software/powbox/curl-remote). We thank the developers for the preliminary work
 
 ## Reporting Issues
 
