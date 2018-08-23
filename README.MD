@@ -37,7 +37,7 @@ const attachToTangle =iotaClient.attachToTangle
 
 ## Documentation
 
-Documentation of Delion:API (https://delion.io) can be found on [docs.delion.io](https://socs.delion.io).
+Documentation of Delion:API [https://delion.io](https://delion.io) can be found on [docs.delion.io](https://docs.delion.io).
 Documentation of IOTA protocol and [`IRI`](https://github.com/iotaledger/iri) http API can be found on [docs.iota.works](https://docs.iota.works).
 
 ## Copy
