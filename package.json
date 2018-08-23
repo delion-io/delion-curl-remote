@@ -10,6 +10,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
   "keywords": [
     "delion",
     "remote-pow",
